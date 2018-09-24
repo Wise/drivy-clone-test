@@ -5,6 +5,7 @@ require_relative 'models/model'
 require_relative 'models/car'
 require_relative 'models/rental'
 require_relative 'json_serializer/base'
+require_relative 'json_serializer/action'
 require_relative 'json_serializer/rentals'
 require_relative 'lib/drivy_manager.rb'
 
